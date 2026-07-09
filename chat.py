@@ -3,7 +3,7 @@ import requests
 import random
 import os
 
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://recipe-backend-6he3.onrender.com"
 
 # ---- Surprise Me data pool ----
 SURPRISE_OPTIONS = [
